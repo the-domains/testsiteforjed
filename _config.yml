@@ -1,7 +1,7 @@
 name: testsiteforjed
 favicon: null
-layout_spectrum: 0.559161891695112
-typography_spectrum: 0.6889799456112087
+layout_spectrum: 0.25076
+typography_spectrum: 0.35436
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.18997080950066447
-  lightness: 0.10822700941935182
-  saturation: 0.17470555542968214
-  rhythmicContrast: 0.8324770152103156
+    - '#000507'
+    - '#f6ffff'
+    - '#3d3d3d'
+    - '#ecdb33'
+    - '#ab7865'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
